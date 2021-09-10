@@ -15,9 +15,7 @@
 
 ---
 
-__⌛ ✔️= Done__ 
----
-__⏳ ✖️= Not DOne__
+__⌛ ✔️= Done__ ||  __⏳ ✖️= Not_DONE__
 
 
 #### Made with 💟 by [Ayoub Berdeddouch](https://github.com/ayoub-berdeddouch)
