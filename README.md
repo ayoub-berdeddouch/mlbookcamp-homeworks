@@ -4,8 +4,9 @@
 ## Homeworks Progress:
 | Id | Module Session | Progress | Dead line|
 |---|---|---|---|
-|01 | Intro | ⌛ | 13/09/2021|
-|02 | Regression | -- | --- |
+|01 | Intro | ⌛ ✔️ | 13/09/2021|
+|02 | Regression | ⌛ ✔️ | 20/09/2021 |
+|03 | Classification | ⏳ ✖️ | 27/09/2021 |
 
 
 
