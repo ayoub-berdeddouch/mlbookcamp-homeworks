@@ -7,11 +7,11 @@
 ## Homeworks Progress:
 | Id | Module Session                                | Progress | Dead line    | Link               |
 |----|-----------------------------------------------|----------|--------------|--------------------|
-|01  | Introduction to Machine Learning              | ⌛ ✔️    | 13/09/2021   | [Intro]()         |
-|02  | Machine Learning for Regression               | ⌛ ✔️    | 20/09/2021   | [Regression]()|
-|03  | Machine Learning for Classification           | ⌛ ✔️    | 27/09/2021   | [Classification]()|
-|04  | Evaluation Metrics for Classification         | ⌛ ✔️    | 04/10/2021   | [Evaluation]()|
-|05  | Deploying Machine Learning Models             | ⌛ ✔️    | 11/10/2021   | [Deployment]()|
+|01  | Introduction to Machine Learning              | ⌛ ✔️    | 13/09/2021   | [Intro](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Intro/)  |
+|02  | Machine Learning for Regression               | ⌛ ✔️    | 20/09/2021   | [Regression](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Regression/)|
+|03  | Machine Learning for Classification           | ⌛ ✔️    | 27/09/2021   | [Classification](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Classification/)|
+|04  | Evaluation Metrics for Classification         | ⌛ ✔️    | 04/10/2021   | [Evaluation](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Evaluation/)|
+|05  | Deploying Machine Learning Models             | ⌛ ✔️    | 11/10/2021   | [Deployment](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Deployment/)|
 |06  | Decision Trees and Ensemble Learning          | ⏳ ✖️    | 18/10/2021   | [LINK EMPTY]()|
 |07  | Midterm Project                               | ⏳ ✖️    | -----/2021   | [LINK EMPTY]()|
 |08  | Neural Networks and Deep Learning             | ⏳ ✖️    | -----/2021   | [LINK EMPTY]()|
