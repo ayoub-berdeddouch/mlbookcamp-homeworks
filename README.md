@@ -12,7 +12,7 @@
 |03  | Machine Learning for Classification           | ⌛ ✔️    | 27/09/2021   | [Classification](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Classification/)|
 |04  | Evaluation Metrics for Classification         | ⌛ ✔️    | 04/10/2021   | [Evaluation](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Evaluation/)|
 |05  | Deploying Machine Learning Models             | ⌛ ✔️    | 11/10/2021   | [Deployment](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Deployment/)|
-|06  | Decision Trees and Ensemble Learning          | ⏳ ✖️    | 18/10/2021   | [LINK EMPTY]()|
+|06  | Decision Trees and Ensemble Learning          | ⌛ ✔️    | 18/10/2021   | [Trees](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Trees/)|
 |07  | Midterm Project                               | ⏳ ✖️    | -----/2021   | [LINK EMPTY]()|
 |08  | Neural Networks and Deep Learning             | ⏳ ✖️    | -----/2021   | [LINK EMPTY]()|
 |09  | Serverless Deep Learning                      | ⏳ ✖️    | -----/2021   | [LINK EMPTY]()|
