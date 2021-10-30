@@ -11,3 +11,14 @@ That will include:
 * Exporting the notebook into a script
 * Putting your model into a web service and deploying it locally with docker
 * Bonus points for deploying the service to the cloud
+
+
+
+
+
+# Solution 
+
+
+Check this repo for my solution
+
+[Abalone Age Prediction](https://github.com/ayoub-berdeddouch/midterm-project-mlzoomcamp)
