@@ -50,14 +50,14 @@ def predict(url):
     interpreter.set_tensor(input_index, X)
     interpreter.invoke()
     preds = interpreter.get_tensor(output_index)
-    float_preds = preds[0].tolist()
+    proba = preds[0].tolist()
     label = "Dog" if preds[0][0] >= 0.5 else "Cat"
-    #print(label)
-    return  float_preds
+    print('Prediction is {} , with a probability of {} %'.format(label,proba*100))
+    return  proba, label
 
 #print('Prediction is = {}'.format(predict(url)))
 
 def lambda_handler(event, context):
     url = event['url']
-    result = predict(url)
-    return result
+    result, label = predict(url)
+    return label,result
