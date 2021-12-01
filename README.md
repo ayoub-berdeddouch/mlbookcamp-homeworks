@@ -15,10 +15,10 @@
 |06  | Decision Trees and Ensemble Learning          | ⌛ ✔️    | 18/10/2021   | [Trees](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Trees/)|
 |07  | Midterm Project                               | ⌛ ✔️    | 01/11/2021   | [MidTerm-Project](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/tree/main/Midterm-Project)|
 |08  | Neural Networks and Deep Learning             | ⌛ ✔️    | 22/11/2021   | [Deep Learning](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/Deep_Learning)|
-|09  | Serverless Deep Learning                      | ⏳ ✖️    | -----/2021   | [LINK EMPTY]()|
+|09  | Serverless Deep Learning                      | ⌛ ✔️    | 02/12/2021   | [Servless](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/Servless)|
 |10  | Kubernetes and TensorFlow-Serving             | ⏳ ✖️    | -----/2021   | [LINK EMPTY]()|
 |11  | Kubeflow and KFServing                        | ⏳ ✖️    | -----/2021   | [LINK EMPTY]()|
-|12  | Capstone Project                              | ⏳ ✖️    | -----/2021   | [LINK EMPTY]()|
+|12  | Capstone Project                              | ⏳ ✖️    | 13/12/2021   | [Capstone Project]()|
 |13  | Article                                       | ⏳ ✖️    | -----/2021   | [LINK EMPTY]()|
 
 
