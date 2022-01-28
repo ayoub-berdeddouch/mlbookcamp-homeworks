@@ -16,10 +16,10 @@
 |07  | Midterm Project                               | ⌛ ✔️    | 01/11/2021   | [MidTerm-Project](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/tree/main/Midterm-Project)|
 |08  | Neural Networks and Deep Learning             | ⌛ ✔️    | 22/11/2021   | [Deep Learning](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/Deep_Learning)|
 |09  | Serverless Deep Learning                      | ⌛ ✔️    | 02/12/2021   | [Servless](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/Servless)|
-|10  | Kubernetes and TensorFlow-Serving             | ⌛ ✔️    | 10/01/2022   | [Kubernetes](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/kubernetes)|
+|10  | Kubernetes and TensorFlow-Serving             | ⌛ ✔️    | 10/01/2022   | [Kubernetes](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/tree/mainkubernetes)|
 |11  | Kubeflow and KFServing                        | ⏳ ✖️    | -----/2021   | [LINK EMPTY]()|
 |12  | Capstone Project                              | ⌛ ✔️    | 13/12/2021   | [Capstone Project](https://github.com/ayoub-berdeddouch/capstone-mlzoomcamp)|
-|13  | Article                                       | ⌛ ✔️    | 30/01/2022   | [Article](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/article)|
+|13  | Article                                       | ⌛ ✔️    | 30/01/2022   | [Article](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/tree/main/article)|
 |14  | 3rd Proj                                      | ⏳ ✖️    | 24/01/2022   | [3rd Project]()|
 
 
