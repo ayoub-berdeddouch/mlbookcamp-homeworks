@@ -5,7 +5,7 @@
 
 ![ML ZoomCamp](https://github.com/alexeygrigorev/mlbookcamp-code/raw/master/images/zoomcamp.jpg)
 ## Homeworks Progress:
-| Id | Module Session                                | Progress | Dead line    | Link               |
+| Id | Module Session                                | Progress | Dead line    | Link               | 
 |----|-----------------------------------------------|----------|--------------|--------------------|
 |01  | Introduction to Machine Learning              | ⌛ ✔️    | 13/09/2021   | [Intro](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Intro/)  |
 |02  | Machine Learning for Regression               | ⌛ ✔️    | 20/09/2021   | [Regression](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Regression/)|
@@ -18,8 +18,9 @@
 |09  | Serverless Deep Learning                      | ⌛ ✔️    | 02/12/2021   | [Servless](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/Servless)|
 |10  | Kubernetes and TensorFlow-Serving             | ⌛ ✔️    | 10/01/2022   | [Kubernetes](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/kubernetes)|
 |11  | Kubeflow and KFServing                        | ⏳ ✖️    | -----/2021   | [LINK EMPTY]()|
-|12  | Capstone Project                              | ⌛ ✔️    | 13/12/2021   | [Capstone Project]()|
-|13  | Article                                       | ⏳ ✖️    | 20/01/2021   | [LINK EMPTY]()|
+|12  | Capstone Project                              | ⌛ ✔️    | 13/12/2021   | [Capstone Project](https://github.com/ayoub-berdeddouch/capstone-mlzoomcamp)|
+|13  | Article                                       | ⌛ ✔️    | 30/01/2022   | [Article](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/article)|
+|14  | 3rd Proj                                      | ⏳ ✖️    | 24/01/2022   | [3rd Project]()|
 
 
 
